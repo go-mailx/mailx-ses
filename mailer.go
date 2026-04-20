@@ -64,7 +64,8 @@ func (m *messageAdapter) HtmlBody(body string) error {
 }
 
 func (m *messageAdapter) ReplyTo(replyTo string) error {
-	return m.ReplyTo(replyTo)
+	m.msg.ReplyToAddresses = append(m.msg.ReplyToAddresses, replyTo)
+	return nil
 }
 
 func (m *messageAdapter) Send(ctx context.Context) error {
