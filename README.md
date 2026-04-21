@@ -2,7 +2,7 @@
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/go-mailx/mailx-ses.svg)](https://pkg.go.dev/github.com/go-mailx/mailx-ses)
 
-`github.com/go-mailx/mailx-ses` is an AWS SES adapter for [`github.com/go-mailx/mailx`](../mailx). It implements the `mailx.MailerAdapter` interface using the AWS SDK v2 and includes OpenTelemetry instrumentation via `otelaws`.
+`github.com/go-mailx/mailx-ses` is an AWS SES adapter for [`github.com/go-mailx/mailx`](https://github.com/go-mailx/mailx). It implements the `mailx.MailerAdapter` interface using the AWS SDK v2 and includes OpenTelemetry instrumentation via `otelaws`.
 
 ## Install
 
