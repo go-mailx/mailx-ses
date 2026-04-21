@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/go-mailx/mailx-ses/compare/v1.0.1...v1.0.2) (2026-04-21)
+
+
+### Docs
+
+* add CODEOWNERS ([352ca48](https://github.com/go-mailx/mailx-ses/commit/352ca483e2a3efc4c15af68266c97d47e78c54e9))
+* fix readme link ([34addb2](https://github.com/go-mailx/mailx-ses/commit/34addb2fbf8b38780bdf670b61d79b6391ef9600))
+
 ## [1.0.1](https://github.com/go-mailx/mailx-ses/compare/v1.0.0...v1.0.1) (2026-04-20)
 
 
