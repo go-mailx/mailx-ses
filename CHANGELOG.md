@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.0.2](https://github.com/go-mailx/mailx-ses/compare/v1.0.1...v1.0.2) (2026-04-30)
+
+
+### Bug Fixes
+
+* **deps:** update aws-sdk-go-v2 monorepo ([#7](https://github.com/go-mailx/mailx-ses/issues/7)) ([debf81b](https://github.com/go-mailx/mailx-ses/commit/debf81b22f8854fa721bb1253a0ca53bf4facc4f))
+
+
+### Other
+
+* Configure Renovate ([#4](https://github.com/go-mailx/mailx-ses/issues/4)) ([05ea8a2](https://github.com/go-mailx/mailx-ses/commit/05ea8a2cade5e1f1002aac2ca26809ab3b7cca8b))
+* **deps:** update googleapis/release-please-action action to v5 ([#5](https://github.com/go-mailx/mailx-ses/issues/5)) ([737f65f](https://github.com/go-mailx/mailx-ses/commit/737f65fec6587be0d443e73d88ba423abb815503))
+
+
+### Docs
+
+* add CODEOWNERS ([352ca48](https://github.com/go-mailx/mailx-ses/commit/352ca483e2a3efc4c15af68266c97d47e78c54e9))
+* fix readme link ([34addb2](https://github.com/go-mailx/mailx-ses/commit/34addb2fbf8b38780bdf670b61d79b6391ef9600))
+
 ## [1.0.1](https://github.com/go-mailx/mailx-ses/compare/v1.0.0...v1.0.1) (2026-04-20)
 
 
