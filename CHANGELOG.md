@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.4](https://github.com/go-mailx/mailx-ses/compare/v1.0.3...v1.0.4) (2026-06-30)
+
+
+### Bug Fixes
+
+* **deps:** update aws-sdk-go-v2 monorepo ([#14](https://github.com/go-mailx/mailx-ses/issues/14)) ([e4be646](https://github.com/go-mailx/mailx-ses/commit/e4be646593a3b717e28117d85e6d0b6ea0ac719b))
+* **deps:** update aws-sdk-go-v2 monorepo ([#16](https://github.com/go-mailx/mailx-ses/issues/16)) ([f3c4f2b](https://github.com/go-mailx/mailx-ses/commit/f3c4f2bee6d69546cdef130b1d9e38f62b999e1f))
+* **deps:** update aws-sdk-go-v2 monorepo ([#18](https://github.com/go-mailx/mailx-ses/issues/18)) ([3e060b1](https://github.com/go-mailx/mailx-ses/commit/3e060b13b464a974e3ccc3e2447ef4634126ccde))
+* **deps:** update aws-sdk-go-v2 monorepo to v1.32.25 ([#17](https://github.com/go-mailx/mailx-ses/issues/17)) ([2009f75](https://github.com/go-mailx/mailx-ses/commit/2009f75953271d0205d9741a291159604d53d899))
+
 ## [1.0.3](https://github.com/go-mailx/mailx-ses/compare/v1.0.2...v1.0.3) (2026-06-03)
 
 
