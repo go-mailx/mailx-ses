@@ -4,14 +4,14 @@ go 1.26.2
 
 require (
 	github.com/aws/aws-sdk-go-v2 v1.42.1
-	github.com/aws/aws-sdk-go-v2/config v1.32.28
+	github.com/aws/aws-sdk-go-v2/config v1.32.29
 	github.com/aws/aws-sdk-go-v2/service/ses v1.36.0
 	github.com/go-mailx/mailx v1.0.2
 	go.opentelemetry.io/contrib/instrumentation/github.com/aws/aws-sdk-go-v2/otelaws v0.69.0
 )
 
 require (
-	github.com/aws/aws-sdk-go-v2/credentials v1.19.27 // indirect
+	github.com/aws/aws-sdk-go-v2/credentials v1.19.28 // indirect
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.18.30 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.4.30 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.7.30 // indirect
@@ -20,7 +20,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/internal/accept-encoding v1.13.13 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/endpoint-discovery v1.12.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.13.30 // indirect
-	github.com/aws/aws-sdk-go-v2/service/signin v1.3.0 // indirect
+	github.com/aws/aws-sdk-go-v2/service/signin v1.4.0 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sns v1.39.17 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sqs v1.42.27 // indirect
 	github.com/aws/aws-sdk-go-v2/service/sso v1.32.0 // indirect
