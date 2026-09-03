@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.9](https://github.com/go-mailx/mailx-ses/compare/v1.0.8...v1.0.9) (2026-09-03)
+
+
+### Bug Fixes
+
+* **deps:** update aws-sdk-go-v2 monorepo ([#28](https://github.com/go-mailx/mailx-ses/issues/28)) ([67d42ae](https://github.com/go-mailx/mailx-ses/commit/67d42aec156817b923fb23aebc6dce0fd2eb84f7))
+* **deps:** update module github.com/aws/aws-sdk-go-v2/service/ses to v1.40.0 ([#31](https://github.com/go-mailx/mailx-ses/issues/31)) ([42fa6bc](https://github.com/go-mailx/mailx-ses/commit/42fa6bc3a68165e92a8329d4279441ffc98e62c9))
+* **deps:** update module go.opentelemetry.io/contrib/instrumentation/github.com/aws/aws-sdk-go-v2/otelaws to v0.71.0 ([#29](https://github.com/go-mailx/mailx-ses/issues/29)) ([ce14237](https://github.com/go-mailx/mailx-ses/commit/ce14237586bfbcad88e3227d0a6e753bb2f6e6f1))
+
 ## [1.0.8](https://github.com/go-mailx/mailx-ses/compare/v1.0.7...v1.0.8) (2026-08-17)
 
 
