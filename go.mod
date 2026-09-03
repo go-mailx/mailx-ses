@@ -5,7 +5,7 @@ go 1.26.2
 require (
 	github.com/aws/aws-sdk-go-v2 v1.45.1
 	github.com/aws/aws-sdk-go-v2/config v1.33.2
-	github.com/aws/aws-sdk-go-v2/service/ses v1.37.6
+	github.com/aws/aws-sdk-go-v2/service/ses v1.40.0
 	github.com/go-mailx/mailx v1.0.2
 	go.opentelemetry.io/contrib/instrumentation/github.com/aws/aws-sdk-go-v2/otelaws v0.70.0
 )
