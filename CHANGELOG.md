@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.11](https://github.com/go-mailx/mailx-ses/compare/v1.0.10...v1.0.11) (2026-10-05)
+
+
+### Bug Fixes
+
+* **deps:** update module go.opentelemetry.io/contrib/instrumentation/github.com/aws/aws-sdk-go-v2/otelaws to v0.72.0 ([#34](https://github.com/go-mailx/mailx-ses/issues/34)) ([6b49a42](https://github.com/go-mailx/mailx-ses/commit/6b49a422c76cbfa33d6f52966eae0d9d64800fe1))
+
 ## [1.0.10](https://github.com/go-mailx/mailx-ses/compare/v1.0.9...v1.0.10) (2026-09-25)
 
 
