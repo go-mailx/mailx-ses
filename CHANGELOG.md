@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.12](https://github.com/go-mailx/mailx-ses/compare/v1.0.11...v1.0.12) (2026-10-09)
+
+
+### Bug Fixes
+
+* **deps:** update aws-sdk-go-v2 monorepo ([#36](https://github.com/go-mailx/mailx-ses/issues/36)) ([b093884](https://github.com/go-mailx/mailx-ses/commit/b093884fddb6b2647d30421e2d1a3143bdef4928))
+* **deps:** update aws-sdk-go-v2 monorepo ([#38](https://github.com/go-mailx/mailx-ses/issues/38)) ([e6c2a7f](https://github.com/go-mailx/mailx-ses/commit/e6c2a7fb77055ccc78559889b9a465efeb1a6115))
+
+
+### Other
+
+* downgrade otelaws to 0.71.0 ([3bd99e7](https://github.com/go-mailx/mailx-ses/commit/3bd99e7df6b047709c1464b0322022513cb62fef))
+
 ## [1.0.11](https://github.com/go-mailx/mailx-ses/compare/v1.0.10...v1.0.11) (2026-10-05)
 
 
