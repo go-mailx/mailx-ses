@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.15](https://github.com/go-mailx/mailx-ses/compare/v1.0.14...v1.0.15) (2026-10-27)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/aws/aws-sdk-go-v2/config to v1.33.11 ([#44](https://github.com/go-mailx/mailx-ses/issues/44)) ([9474662](https://github.com/go-mailx/mailx-ses/commit/94746624c045f7f511b34a7ce10f64becf4c0673))
+
 ## [1.0.14](https://github.com/go-mailx/mailx-ses/compare/v1.0.13...v1.0.14) (2026-10-23)
 
 
