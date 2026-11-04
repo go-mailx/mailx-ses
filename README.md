@@ -20,6 +20,7 @@ The adapter supports inline (embedded) attachments added with `mailx.Inline`, e.
 
 ```go
 mailer.Send(ctx,
+	mailx.Subject("Hello"),
 	mailx.To("to@example.com"),
 	mailx.HtmlBody(`<img src="cid:logo">`),
 	mailx.Inline("logo", "image/png", logo),
