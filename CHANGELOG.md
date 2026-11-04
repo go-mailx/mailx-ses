@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/go-mailx/mailx-ses/compare/v1.0.16...v1.1.0) (2026-11-04)
+
+
+### Features
+
+* support inline attachments via SES v2 ([#49](https://github.com/go-mailx/mailx-ses/issues/49)) ([faa6c26](https://github.com/go-mailx/mailx-ses/commit/faa6c268d40269a3eda99fbfbabe59bcab76b488))
+
 ## [1.0.16](https://github.com/go-mailx/mailx-ses/compare/v1.0.15...v1.0.16) (2026-11-02)
 
 
