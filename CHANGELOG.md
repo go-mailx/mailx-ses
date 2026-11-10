@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.3](https://github.com/go-mailx/mailx-ses/compare/v1.1.2...v1.1.3) (2026-11-10)
+
+
+### Bug Fixes
+
+* **deps:** update module github.com/aws/aws-sdk-go-v2/config to v1.33.17 ([#59](https://github.com/go-mailx/mailx-ses/issues/59)) ([02ec16f](https://github.com/go-mailx/mailx-ses/commit/02ec16f3b09fe920c1fe4ea5d3ca36f87549a97c))
+* **deps:** update module github.com/aws/smithy-go to v1.28.9 ([#53](https://github.com/go-mailx/mailx-ses/issues/53)) ([15eb969](https://github.com/go-mailx/mailx-ses/commit/15eb969f1da92ca4562fe0dc062f1b79a2b22107))
+
 ## [1.1.2](https://github.com/go-mailx/mailx-ses/compare/v1.1.1...v1.1.2) (2026-11-09)
 
 
